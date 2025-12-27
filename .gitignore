@@ -1,7 +1,10 @@
 .env
-data/gemini - Google Docs.pdf
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.idea
+.venv
 
+data/
+src/tempCodeRunnerFile.py
